@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "08c8fdfd831acb89",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc5818fda901e999",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4ad152864dbfafb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cc23116872a3018",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e4ee3d8239c2966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1488e07dc1ca064",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "775d8b0ba09ab1d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tunel",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb00ae4b4ebfe075",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c821e130e26ccfea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "d7e788db363d17ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9029a163754aabf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9ca206a5f3bbf57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd501c08d0377f71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bbf9db33a641888",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a57587efa5796be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b4ad152864dbfafb",
+  "lastOpenFiles": [
+    "Hacking/CTF/Otros/MAQUINA CAPYPENGUIN.md",
+    "Hacking/CTF/Otros/Pepe The Frog - Comunidad Hacking Ético.md",
+    "Hacking/CTF/Otros/Oclat - Comunidad Hacking Ético.md",
+    "Hacking/OSINT/Maltego.md",
+    "Sin título 1.canvas",
+    "Hacking/Hacking Generico/Cambiar Dirección MAC con Macchanger.md",
+    "Redes/Direcciones MAC.md",
+    "Hacking/OSINT/Comando Whatis, Whois, DNSrecon y robots.txt para Obtener Información de un Dominio.md",
+    "Hacking/CTF/Vulnyx/MAQUINA BASIC.md",
+    "Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
+    "Hacking/Hacking Generico/John The Ripper.md",
+    "Hacking/Hacking Puertos/Puerto 111 - NFS.md",
+    "Coding/WordPress/Instalación de WordPress.md",
+    "Ingeniería/Ecuaciones.md",
+    "Hacking/Codificación/MD5SUM - Generar Hash md5 de un Archivo.md",
+    "images/29-1.png",
+    "images/Pasted image 20230111194233.png",
+    "images/Pasted image 20230111194142.png",
+    "images/Pasted image 20230111194108.png",
+    "images/Pasted image 20230111194055.png",
+    "images/Pasted image 20230111193936.png",
+    "images/Pasted image 20230111193838.png",
+    "images/Pasted image 20230111193624.png",
+    "images/Pasted image 20230111193555.png",
+    "images/Pasted image 20230111193347.png",
+    "images",
+    "Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 4 -- Máquina 5.md",
+    "Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 3 -- Máquina 4.md",
+    "Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 2 -- Máquina 3.md",
+    "Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 1 -- Máquina 2.md",
+    "Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Kali Linux -- Máquina 1.md",
+    "Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/0 - Preparación del Entorno.md",
+    "Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers",
+    "Hacking/Pivoting/Preparación eCPPTv2/4 - Pivoting Friendly 1 -- Metasploitable 2.md",
+    "Hacking/Pivoting/Preparación eCPPTv2/3 - Pivoting Friendly 3 -- Friendly 1.md",
+    "Hacking/Pivoting/Preparación eCPPTv2/2 - MAQUINA FRIENDLY 3.md",
+    "Hacking/Pivoting/Preparación eCPPTv2/1 - Preparación del Laboratorio.md",
+    "Hacking/Pivoting/Preparación eCPPTv2",
+    "Hacking/Pivoting/SOCAT.md",
+    "Hacking/Pivoting/Recibir Credenciales SSH.md",
+    "Hacking/Pivoting",
+    "Hacking/Persistencia",
+    "Hacking/OSINT",
+    "Hacking/Hacking Puertos",
+    "Hacking/Hacking Generico/Nmap",
+    "Hacking/Hacking Generico/Metasploit",
+    "Hacking/Hacking Generico/Hydra",
+    "Sin título.canvas"
+  ]
+}
