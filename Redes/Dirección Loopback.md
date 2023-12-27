@@ -1,0 +1,1 @@
+La dirección loopback es una dirección IP especial reservada en el rango de direcciones IP privadas que se utiliza para dirigir el tráfico de red de un dispositivo a sí mismo. Es decir, cuando un dispositivo envía datos a su propia dirección IP loopback, los datos son enviados a la interfaz de red del dispositivo y se procesan internamente sin salir de la propia máquina.

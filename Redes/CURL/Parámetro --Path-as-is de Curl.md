@@ -1,0 +1,3 @@
+El parámetro --path-as-is evita que curl modifique la URL original y la utiliza tal como se especificó en la línea de comandos. Esto es útil cuando se necesita acceder a un recurso que tiene una URL compleja o no estándar como en el siguiente caso, donde estamos solicitando un archivo interno de la máquina: 
+![[Pasted image 20230303024551.png]]
+Por ejemplo, si se desea solicitar un recurso con la URL "[http://example.com/my%20path/?query=foo&bar=baz](http://example.com/my%20path/?query=foo&bar=baz)", pero curl modifica la URL automáticamente para que sea "[http://example.com/my%2520path/%3Fquery=foo&bar=baz](http://example.com/my%2520path/%3Fquery=foo&bar=baz)", el uso del parámetro --path-as-is asegura que la solicitud se realiza con la URL original sin modificar.
